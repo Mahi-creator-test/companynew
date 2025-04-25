@@ -8,3 +8,7 @@ text
 video
 
 pay
+
+Hiding the Last scene
+
+Status visible to all
