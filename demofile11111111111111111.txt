@@ -12,3 +12,7 @@ pay
 Hiding the Last scene
 
 Status visible to all
+
+Profile pic hide
+
+Voice status enabled
